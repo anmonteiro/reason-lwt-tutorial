@@ -10,7 +10,7 @@
      "kind": "bytecode"
     },
     {
-     "kind": "bytecode",
+     "kind": "native",
      "main": "Index"
     }
  ],
