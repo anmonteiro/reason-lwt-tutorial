@@ -7,6 +7,7 @@ in Reason, using [bsb-native](https://github.com/bsansouci/bsb-native) for compi
 ## Install
 
 ```shell
+opam install lwt
 npm i
 ```
 

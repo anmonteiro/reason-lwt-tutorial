@@ -1,7 +1,7 @@
 {
- "name": "bsb-native-example",
+ "name": "reason-lwt-tutorial",
  "ocamlfind-dependencies": [
-    "lwt"
+    "lwt", "lwt.unix"
  ],
   "sources": "src",
   "entries": [
