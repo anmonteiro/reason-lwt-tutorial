@@ -5,9 +5,13 @@ This small project implements the solutions of the Mirage [Lwt tutorial](https:/
 in Reason, using [bsb-native](https://github.com/bsansouci/bsb-native) for compilation.
 
 ## Install
-`npm i`
+
+```shell
+npm i
+```
 
 ## Build
+
 ```shell
 npm run build
 ```
