@@ -1,0 +1,25 @@
+{
+ "name": "bsb-native-example",
+ "ocamlfind-dependencies": [
+    "lwt"
+ ],
+  "sources": "src",
+  "entries": [
+    {
+     "main": "Index",
+     "kind": "bytecode"
+    },
+    {
+     "kind": "bytecode",
+     "main": "Index"
+    }
+ ],
+ "bsc-flags": [
+    "-no-alias-deps",
+    "-w",
+    "-40+6+7+27+32..39+44+45",
+    "-bs-diagnose",
+    "-verbose",
+    "-bs-super-errors"
+ ]
+}

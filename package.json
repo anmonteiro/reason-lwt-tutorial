@@ -1,0 +1,9 @@
+{
+  "name": "bsb-native-example",
+  "scripts": {
+    "build": "bsb"
+  },
+  "devDependencies": {
+    "bs-platform": "github:bsansouci/bsb-native#master"
+  }
+}
